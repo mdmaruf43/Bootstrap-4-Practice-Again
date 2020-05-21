@@ -1,0 +1,17 @@
+{
+  "name": "Bootstrap 4",
+  "homepage": "https://github.com/mdmaruf43/Bootstrap-4-Practice-Again",
+  "authors": [
+    "mdmaruf43 <marufahmedcse76@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
